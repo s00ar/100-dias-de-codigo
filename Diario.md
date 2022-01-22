@@ -1,20 +1,22 @@
 # 100 Días de Programación - Diario
-### Day 1: Enero 19, 2022
+### Día 1: Enero 19, 2022
 
 **Progreso del día**: Trabajé en armar una base de datos completa para un proyecto que se me ocurrió realizar para mi porfolio.
 
 **Opiniones:** Laravel y más puntualmente PHP es un lenguaje que no me resulta facíl para nada por lo que los avances son lentos pero tiene buena documentación y una excelente comunidad de ayuda por lo que voy resolviendo los problemas que surgen sin inconvenientes.
 
-# 100 Días de Programación - Diario
-### Day 2: Enero 20, 2022
+### Día 2: Enero 20, 2022
 
 **Progreso del día**: Terminé la dichosa base de datos en #Laravel para crear mi Rest API usando tablas intermedias. Un pequeño paso para el hombre pero un gran salto para mí. Deseenme suerte!
 
 **Opiniones:** A veces los obstaculos más grandes estan en nuestras mentes.
 
+### Día 3: Enero 21, 2022
+
+**Progreso del día**: Hoy hice una base de datos con funciones CRUD en #Laravel. Es parte de un proyecto mayor con Gonzalo G. Durante, Joel Andrés Bozian y el resto del equipo así que no quise demasiado.
 
 
-
+**Opiniones:** Es complicado cuando las cosas no funcionan debido a cambios en el framework y que muchas de las ayudas online esten desactualizadas.
 
 
 
