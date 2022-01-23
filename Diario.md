@@ -18,8 +18,11 @@
 
 **Opiniones:** Es complicado cuando las cosas no funcionan debido a cambios en el framework y que muchas de las ayudas online esten desactualizadas.
 
+### Día 4: Enero 22, 2022
 
+**Progreso del día**: Fué un día muy frustrante. Encontre mil problemas en código de Laravel que previamente funcionaba genial.
 
+**Opiniones:** Perdí todo el día debugeando y no siento que haya avanzado. Mañana voy a dedicarle a otra cosa para no perder el tiempo.
 
 
 
