@@ -24,7 +24,11 @@
 
 **Opiniones:** Perdí todo el día debugeando y no siento que haya avanzado. Mañana voy a dedicarle a otra cosa para no perder el tiempo.
 
+### Día 5: Enero 23, 2022
 
+**Progreso del día**: Arranco proyecto nuevo en #laravel para agarrarle la mano a #tailwindcss.
+
+**Opiniones:** Siempre que nos sintamos cómodos hay que ir por mas!
 
 
 
