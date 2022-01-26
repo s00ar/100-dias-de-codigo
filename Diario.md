@@ -30,7 +30,11 @@
 
 **Opiniones:** Siempre que nos sintamos cómodos hay que ir por mas!
 
+### Día 6: Enero 24, 2022
 
+**Progreso del día**: Gracias a Carlos Alberto Romero, nuestro profe en el curso de Desarrollador Full Stack en Mundos E, pude terminar mi primer desarrollo CRUD en #laravel y #bootstrap.
+
+**Opiniones:** Muy contento con mi avance hasta ahora!
 
 
 
