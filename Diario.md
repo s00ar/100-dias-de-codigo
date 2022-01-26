@@ -36,7 +36,61 @@
 
 **Opiniones:** Muy contento con mi avance hasta ahora!
 
+### Día 7: Enero 25, 2022
 
+**Progreso del día**: Para cortar un poco y variar retomé un proyecto en C# que quiero terminar hace rato largo pero por lo poco que me gusta #sql vengo posponiendo. Vamos a dedicarle unos días a esto antes de meterme nuevamente en #laravel. 
+
+### Día 8: Enero 26, 2022
+
+**Progreso del día**: P
+
+### Día : , 2022
+
+**Progreso del día**: ***
+
+**Progreso del día**: ***
+
+### Día : , 2022
+
+**Progreso del día**: ***
+
+**Progreso del día**: ***
+
+### Día : , 2022
+
+**Progreso del día**: ***
+
+**Progreso del día**: ***
+
+### Día : , 2022
+
+**Progreso del día**: ***
+
+**Progreso del día**: ***
+
+### Día : , 2022
+
+**Progreso del día**: ***
+
+**Progreso del día**: ***
+
+### Día : , 2022
+
+**Progreso del día**: ***
+
+**Progreso del día**: ***
+
+### Día : , 2022
+
+**Progreso del día**: ***
+
+**Progreso del día**: ***
+
+### Día : , 2022
+
+**Progreso del día**: ***
+
+**Progreso del día**: ***
 
 
 
