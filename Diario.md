@@ -42,7 +42,7 @@
 
 ### Día 8: Enero 26, 2022
 
-**Progreso del día**: P
+**Progreso del día**: Me había olvidado de la paciencia que le tengo que tener al entorno de desarrollo de C#. Creo que voy a tener que ponerle otros 16gb de ram a mí I7 y un disco de estado sólido solo para que sea más ágil el desarrollo.
 
 ### Día : , 2022
 
