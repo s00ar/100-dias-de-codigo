@@ -46,7 +46,7 @@
 
 ### Día : , 2022
 
-**Progreso del día**: ***
+**Progreso del día**: Día 9 de mi desafío #100díasdecódigo. Hoy para ir mechando cosas distintas retomé mi porfolio y le agregué mi CV en usando CSS3 y Bootstrap. Esto es solo temporal hasta que la versión final en la que estoy trabajando realizada usando HTML, CSS y Javascript esté lista y la suba a un dominio decente.
 
 **Progreso del día**: ***
 
