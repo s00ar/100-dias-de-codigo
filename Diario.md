@@ -44,21 +44,15 @@
 
 **Progreso del día**: Me había olvidado de la paciencia que le tengo que tener al entorno de desarrollo de C#. Creo que voy a tener que ponerle otros 16gb de ram a mí I7 y un disco de estado sólido solo para que sea más ágil el desarrollo.
 
-### Día : , 2022
+### Día 9: Enero 27, 2022
 
-**Progreso del día**: Día 9 de mi desafío #100díasdecódigo. Hoy para ir mechando cosas distintas retomé mi porfolio y le agregué mi CV en usando CSS3 y Bootstrap. Esto es solo temporal hasta que la versión final en la que estoy trabajando realizada usando HTML, CSS y Javascript esté lista y la suba a un dominio decente.
+**Progreso del día**: Hoy para ir mechando cosas distintas retomé mi porfolio y le agregué mi CV en usando CSS3 y Bootstrap. Esto es solo temporal hasta que la versión final en la que estoy trabajando realizada usando HTML, CSS y Javascript esté lista y la suba a un dominio decente.
 
-**Progreso del día**: ***
+### Día 10: Enero 28, 2022
 
-### Día : , 2022
-
-**Progreso del día**: ***
-
-**Progreso del día**: ***
+**Progreso del día**: Ya siento la complicación de mantener el rítmo y recién estoy por el 10%. Especialmente volviendo a #laravel donde siento que me dedico a buscar como arreglar mis errores. Es cosa de armarse de paciencia y dedicarle un par de horas hasta encontrarle la vuelta. Fuerza a todos los colegas que se sumaron al challenge. Especialmente a Gonzalo G. Durante que deja siempre todo en la cancha.
 
 ### Día : , 2022
-
-**Progreso del día**: ***
 
 **Progreso del día**: ***
 
@@ -66,17 +60,7 @@
 
 **Progreso del día**: ***
 
-**Progreso del día**: ***
-
 ### Día : , 2022
-
-**Progreso del día**: ***
-
-**Progreso del día**: ***
-
-### Día : , 2022
-
-**Progreso del día**: ***
 
 **Progreso del día**: ***
 
@@ -84,11 +68,11 @@
 
 **Progreso del día**: ***
 
-**Progreso del día**: ***
-
 ### Día : , 2022
 
 **Progreso del día**: ***
+
+### Día : , 2022
 
 **Progreso del día**: ***
 
