@@ -52,9 +52,9 @@
 
 **Progreso del día**: Ya siento la complicación de mantener el rítmo y recién estoy por el 10%. Especialmente volviendo a #laravel donde siento que me dedico a buscar como arreglar mis errores. Es cosa de armarse de paciencia y dedicarle un par de horas hasta encontrarle la vuelta. Fuerza a todos los colegas que se sumaron al challenge. Especialmente a Gonzalo G. Durante que deja siempre todo en la cancha.
 
-### Día : , 2022
+### Día 11: enero 29, 2022
 
-**Progreso del día**: ***
+**Progreso del día**:Hoy me encontré con un error que me habia surgido en clase de #laravel en Mundos E con Carlos Alberto Romero y fué muy satisfactorio el haber hecho una cursada en donde el profe fuera tan atento a responder dudas. Creo que esa es la gran diferencia entre hacer uno de estos cursos donde nunca tenes un humano del otro lado(lo digo por experiencia ya que hice muchisimos cursos con esa modalidad) y la enseñanza tradicional aunque sea via zoom.
 
 ### Día : , 2022
 
