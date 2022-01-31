@@ -58,7 +58,7 @@
 
 ### Día : , 2022
 
-**Progreso del día**: ***
+**Progreso del día**: Día 12 de mis #100díasdecódigo. Sigo mejorando en #laravel que es un framework que me resulta fascinante por poder incorporar elementos de front y back. Tengo que admitir que esto último es mi punto más flojo por lo que me estoy enfocando en el desarrollo de api para reforzar donde estoy más flojo.
 
 ### Día : , 2022
 
