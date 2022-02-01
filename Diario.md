@@ -62,7 +62,7 @@
 
 ### Día : , 2022
 
-**Progreso del día**: ***
+**Progreso del día**: Día 13 #mis100díasdecódigo. Ya empecé a aplicar lo aprendido en #laravel a nuestro proyecto integrador. Vamos a tener que empezar a desarrollarlo a la par me parece pq Gonzalo G. Durante está haciendo lo mismo. Esperemos que quede tan bien como pretendemos.
 
 ### Día : , 2022
 
