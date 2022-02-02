@@ -66,7 +66,7 @@
 
 ### Día : , 2022
 
-**Progreso del día**: ***
+**Progreso del día**: Día 14 de #100díasdecódigo. Hoy no solo CRUD sino que agregué login y un esqueleto del proyecto que estamos armando como trabajo integrador. Va quedando.
 
 ### Día : , 2022
 
