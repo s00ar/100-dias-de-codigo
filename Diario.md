@@ -70,7 +70,7 @@
 
 ### Día : , 2022
 
-**Progreso del día**: ***
+**Progreso del día**: Día 15 #100díasdecódigo Un día bastante malo ya que accidentalmente borré mi repositorio al intentar ordenar un poco mi cuenta de github. Lección del día: Siempre hacer backup para no tener que empezar todo de cero.
 
 ### Día : , 2022
 
