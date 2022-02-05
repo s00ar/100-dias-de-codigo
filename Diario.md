@@ -74,7 +74,7 @@
 
 ### Día : , 2022
 
-**Progreso del día**: ***
+**Progreso del día**: Día 16 #mis100díasdecódigo. Todo recuperado pero perdí tiempo ya que Cristian Olivares me dijo como recuperarlo justo cuando ya lo habia terminado. Dato importantisimo el que me pasó y estas cosas me hacen querer mas la comunidad de desarrolladores.
 
 
 
