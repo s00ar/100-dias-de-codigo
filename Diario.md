@@ -76,6 +76,7 @@
 
 **Progreso del día**: Día 16 #mis100díasdecódigo. Todo recuperado pero perdí tiempo ya que Cristian Olivares me dijo como recuperarlo justo cuando ya lo habia terminado. Dato importantisimo el que me pasó y estas cosas me hacen querer mas la comunidad de desarrolladores.
 
+Día 17 #mis100díasdecódigo. Hoy repasé las bases de javascript para encarar sus frameworks con una base firme. A veces me olvido lo intuitivo que es Js con su debíl tipado.
 
 
 ________________________________________DESDE AQUÍ SON EJEMPLOS QUE USO COMO TEMPLATES SOLAMENTE. IGNORARLOS.
