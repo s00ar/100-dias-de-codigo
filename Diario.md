@@ -78,25 +78,7 @@
 
 Día 17 #mis100díasdecódigo. Hoy repasé las bases de javascript para encarar sus frameworks con una base firme. A veces me olvido lo intuitivo que es Js con su debíl tipado.
 
-
-________________________________________DESDE AQUÍ SON EJEMPLOS QUE USO COMO TEMPLATES SOLAMENTE. IGNORARLOS.
-### Day 0: Enero 30, 2016 (Ejemplo 1)
-##### (Borrame o comentame algo)
-
-**Progreso del día**: Trabaje en CSS, también pude mejorar el canvas para la app.
-
-**Opiniones:** Me siento realmente bien trabajando con CSS, aunque sea lento el progreso, me estoy volviendo cada vez mejor. Canvas es nuevo para mí, pero me las arreglo con las funcionalidades básicas.
-
-**Link a mi trabajo:** [CalculApp](http://www.example.com)
-
-### Day 0: Enero 30, 2016 (Ejemplo 1)
-##### (Borrame o comentame algo)
-
-**Progreso del día**: Trabaje en CSS, también pude mejorar el canvas para la app.
-
-**Opiniones:** Me siento realmente bien trabajando con CSS, aunque sea lento el progreso, me estoy volviendo cada vez mejor. Canvas es nuevo para mí, pero me las arreglo con las funcionalidades básicas.
-
-**Link a mi trabajo:** [CalculApp](http://www.example.com))
+Day 18 of my #100daysofcode. I love Laravel all the shortcuts, ways to generate cleaner code and to be more efficient. It is a workframe that I hope to be able to master one day. Time to time. Today I was creating new controllers and tables for our project and shaping our database. #laravel
 
 
 ### Day 1: Lunes 30 de febrero
