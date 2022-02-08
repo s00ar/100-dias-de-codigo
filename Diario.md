@@ -56,30 +56,40 @@
 
 **Progreso del día**:Hoy me encontré con un error que me habia surgido en clase de #laravel en Mundos E con Carlos Alberto Romero y fué muy satisfactorio el haber hecho una cursada en donde el profe fuera tan atento a responder dudas. Creo que esa es la gran diferencia entre hacer uno de estos cursos donde nunca tenes un humano del otro lado(lo digo por experiencia ya que hice muchisimos cursos con esa modalidad) y la enseñanza tradicional aunque sea via zoom.
 
-### Día : , 2022
+### Día 12: enero 30, 2022
 
-**Progreso del día**: Día 12 de mis #100díasdecódigo. Sigo mejorando en #laravel que es un framework que me resulta fascinante por poder incorporar elementos de front y back. Tengo que admitir que esto último es mi punto más flojo por lo que me estoy enfocando en el desarrollo de api para reforzar donde estoy más flojo.
+**Progreso del día**: Sigo mejorando en #laravel que es un framework que me resulta fascinante por poder incorporar elementos de front y back. Tengo que admitir que esto último es mi punto más flojo por lo que me estoy enfocando en el desarrollo de api para reforzar donde estoy más flojo.
 
-### Día : , 2022
+### Día 13: enero 31, 2022
 
-**Progreso del día**: Día 13 #mis100díasdecódigo. Ya empecé a aplicar lo aprendido en #laravel a nuestro proyecto integrador. Vamos a tener que empezar a desarrollarlo a la par me parece pq Gonzalo G. Durante está haciendo lo mismo. Esperemos que quede tan bien como pretendemos.
+**Progreso del día**: Ya empecé a aplicar lo aprendido en #laravel a nuestro proyecto integrador. Vamos a tener que empezar a desarrollarlo a la par me parece pq Gonzalo G. Durante está haciendo lo mismo. Esperemos que quede tan bien como pretendemos.
 
-### Día : , 2022
+### Día 14: febrero 1, 2022
 
-**Progreso del día**: Día 14 de #100díasdecódigo. Hoy no solo CRUD sino que agregué login y un esqueleto del proyecto que estamos armando como trabajo integrador. Va quedando.
+**Progreso del día**: Hoy no solo CRUD sino que agregué login y un esqueleto del proyecto que estamos armando como trabajo integrador. Va quedando.
 
-### Día : , 2022
+### Día 15: febrero 2 , 2022
 
-**Progreso del día**: Día 15 #100díasdecódigo Un día bastante malo ya que accidentalmente borré mi repositorio al intentar ordenar un poco mi cuenta de github. Lección del día: Siempre hacer backup para no tener que empezar todo de cero.
+**Progreso del día**:  Un día bastante malo ya que accidentalmente borré mi repositorio al intentar ordenar un poco mi cuenta de github. Lección del día: Siempre hacer backup para no tener que empezar todo de cero.
 
-### Día : , 2022
+### Día 16: febrero 3 , 2022
 
-**Progreso del día**: Día 16 #mis100díasdecódigo. Todo recuperado pero perdí tiempo ya que Cristian Olivares me dijo como recuperarlo justo cuando ya lo habia terminado. Dato importantisimo el que me pasó y estas cosas me hacen querer mas la comunidad de desarrolladores.
+**Progreso del día**: Todo recuperado pero perdí tiempo ya que Cristian Olivares me dijo como recuperarlo justo cuando ya lo habia terminado. Dato importantisimo el que me pasó y estas cosas me hacen querer mas la comunidad de desarrolladores.
 
-Día 17 #mis100díasdecódigo. Hoy repasé las bases de javascript para encarar sus frameworks con una base firme. A veces me olvido lo intuitivo que es Js con su debíl tipado.
+### Día 17: febrero 4 , 2022
 
-Day 18 of my #100daysofcode. I love Laravel all the shortcuts, ways to generate cleaner code and to be more efficient. It is a workframe that I hope to be able to master one day. Time to time. Today I was creating new controllers and tables for our project and shaping our database. #laravel
+**Progreso del día**: Repasé las bases de javascript para encarar sus frameworks con una base firme. A veces me olvido lo intuitivo que es Js con su debíl tipado.
 
+### Día 18: febrero 5 , 2022
+
+**Progreso del día**: Estuve trabajando en el proyecto PIN en laravel. Me encantan los atajos que tiene este workframe y como ayuda a las buenas prácticas y a tener un código mas mantenible. Espero algun día poder masterearlo.
+
+### Día 19: febrero 7 , 2022
+
+**Progreso del día**: Retomé el repaso de javascript para ponerme a tiro con el curso full stack. Realmente un lenguaje muy amigable pero con muchas peculiaridades. Estoy trabajando en algunas funcionalidades para mi nuevo sitio de curriculum online y repasando ejercicios básicos de sintaxis en JS.
+
+________________________________
+EJEMPLO
 
 ### Day 1: Lunes 30 de febrero
 
