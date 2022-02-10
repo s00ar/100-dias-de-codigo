@@ -88,6 +88,9 @@
 
 **Progreso del día**: Retomé el repaso de javascript para ponerme a tiro con el curso full stack. Realmente un lenguaje muy amigable pero con muchas peculiaridades. Estoy trabajando en algunas funcionalidades para mi nuevo sitio de curriculum online y repasando ejercicios básicos de sintaxis en JS.
 
+### Día 20: febrero 9, 2022
+**Progreso del día**: Hoy le dediqué tiempo a crear repositorios de todos mis proyectos pasados y presentes en github siguiendo el consejo de un senior developer. Vamos a ponerle garra a seguir avanzando. Con las pocas horas libres que me quedaron fuí adelantando trabajos del curso que estoy realizando. Algunas cosas de javascript me volvieron bastante rápido (había que hacer una tarea y adelanté 3) pero otras me resultan un poco más complejas debido a la lógica de Js que me traba un poco en funciones que requieren procesos más rebuscados.
+
 ________________________________
 EJEMPLO
 
