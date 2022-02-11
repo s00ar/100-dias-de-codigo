@@ -98,3 +98,4 @@
 
 **Link(s)**
 1. [Get number of letters on words in an array](https://github.com/s00ar/javascript/blob/main/tarea5.js)
+2. Literalmente esta fue mi situación(https://youtu.be/0lbzmZeS-BY)
