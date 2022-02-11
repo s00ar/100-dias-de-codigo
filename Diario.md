@@ -91,15 +91,10 @@
 ### Día 20: febrero 9, 2022
 **Progreso del día**: Hoy le dediqué tiempo a crear repositorios de todos mis proyectos pasados y presentes en github siguiendo el consejo de un senior developer. Vamos a ponerle garra a seguir avanzando. Con las pocas horas libres que me quedaron fuí adelantando trabajos del curso que estoy realizando. Algunas cosas de javascript me volvieron bastante rápido (había que hacer una tarea y adelanté 3) pero otras me resultan un poco más complejas debido a la lógica de Js que me traba un poco en funciones que requieren procesos más rebuscados.
 
-________________________________
-EJEMPLO
+### Día 21: febrero 10, 2022
+**Progreso del día**: Pude terminar uno de los desafíos del cursos que estoy realizando en javascript. Es increíble que a pesar de haber hecho varios cursos todavía me trabe en cosas básicas a veces. En este caso era una tonteria. Había armado la respuesta con dot notation y como suele ser similar el resultado con bracket notation nunca se me ocurrió que ese podría ser el problema. Probé de todo y finalmente todo funciono perfecto solo pasando una linea a bracket notation.
 
-### Day 1: Lunes 30 de febrero
-
-**Progreso del día**: Trabajé en algunos ejercicios de FreeCodeCamp.
-
-**Opiniones** Recién he iniciado mi camino hacia la buena programación de códigos, pero se siente bien ir aprendiendo en el camino. Cada día me vuelvo mejor.
+**Opiniones** Estoy realmente agarrandole mucho la mano. Ahora que tengo todos los repositorios en github finalmente puedo linkear lo realizado en mi repositorio. Cada vez me entusiasma más la programación.
 
 **Link(s)**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Get number of letters on words in an array](https://github.com/s00ar/javascript/blob/main/tarea5.js)
