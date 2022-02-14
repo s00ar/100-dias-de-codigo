@@ -98,4 +98,25 @@
 
 **Link(s)**
 1. [Get number of letters on words in an array](https://github.com/s00ar/javascript/blob/main/tarea5.js)
-2. Literalmente esta fue mi situación(https://youtu.be/0lbzmZeS-BY)
+2. [Literalmente esta fue mi situación](https://youtu.be/0lbzmZeS-BY)
+
+### Día 22: febrero 11, 2022
+**Progreso del día**: Estos próximos días los voy a ir adelantando toda la tarea del curso de javascript para mejorar en ese frente lo antes posible. Quiero ya mismo empezar a utilizar este lenguaje en desarrollos más complejos pero tiempo al tiempo.
+
+**Opiniones** Me gusta mucho el lenguaje pero muchas veces siento que logicamente cosas que deberían funcionar no lo hacen. Tengo que ajustar mi brújula mental quizas.
+**Link(s)**
+1. [Gender welcome on prompt](https://github.com/s00ar/javascript/blob/main/tarea4.js)
+
+### Día 23: febrero 12, 2022
+**Progreso del día**: Otra de esas asignaciones que me complicaron bastante. Cometia el error de buscar una comparación de valores cuando en realidad lo unico que tenia que hacer era push y dejar que se filtrara por propiedades. Lo gracioso es que perdí muchísimo tiempo buscando soluciones super complejas cuando era una tontería. Cuando me dí cuenta me quería matar pero bueno. Son cosas que pasan.
+
+**Opiniones** Fueron largas horas hasta que encontré mi error pero lo positivo es que terminé aprendiendo a usar muchos más métodos y funciones de lo esperado. Así que no hay mal que por bien no venga.
+**Link(s)**
+1. [Filter products function by properties](https://github.com/s00ar/javascript/blob/main/tarea6.js)
+
+### Día 24: febrero 13, 2022
+**Progreso del día**: Realmente es la primera vez que mi hora de código fué efectivamente una hora. Realmente estos ejercicios me resultaron muy sencillos y espero que eso sea porque le estoy enganchando la lógica al lenguaje pero sospecho que es porque estos métodos son realmente simples.
+
+**Opiniones** Me gusta mucho el lenguaje pero muchas veces siento que logicamente cosas que deberían funcionar no lo hacen. Tengo que ajustar mi brújula mental quizas.
+**Link(s)**
+1. [Using learned methods on a name array](https://github.com/s00ar/javascript/blob/main/tarea7.js)
