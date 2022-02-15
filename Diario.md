@@ -123,3 +123,11 @@
 
 **Link(s)**
 1. [Using learned methods on a name array](https://github.com/s00ar/javascript/blob/main/tarea7.js)
+
+### Día 25: febrero 14, 2022
+**Progreso del día**: Hoy comienzo a hacer los desafíos de https://www.frontendmentor.io/ siguiendo la recomendación de Joel. Estan muy bien explicados y la dificultad la puede ajustar uno según el desafío que seleccione. Arrancamos con los más simples y vamos subiendo el volumén a ver hasta donde llegamos.
+
+**Opiniones** Ya con un poco más de confianza vamos avanzando en el camino.
+
+**Link(s)**
+1. [First challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nft-preview-card-component-5KBpKF-nh)
