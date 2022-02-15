@@ -131,3 +131,6 @@
 
 **Link(s)**
 1. [First challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nft-preview-card-component-5KBpKF-nh)
+
+### Día 26: febrero 15, 2022
+**Progreso del día**:Estuve arrancando con el proyecto de frontendmentor, armando la base de estilo y demás. Mañana voy a procurar terminar el proyecto.
