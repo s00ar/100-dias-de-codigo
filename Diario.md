@@ -134,3 +134,8 @@
 
 ### Día 26: febrero 15, 2022
 **Progreso del día**:Estuve arrancando con el proyecto de frontendmentor, armando la base de estilo y demás. Mañana voy a procurar terminar el proyecto.
+
+### Día 27: febrero 16, 2022
+**Progreso del día**: Bueno llegué de un arduo día laboral pero no queria no hacer mi día de código. Así que a duras penas y con las pocas neuronas que me quedaron le empecé a dar forma al desafío. Estoy seguro de que en una hora más lo hubiera terminado pero conozco mis limites. Mañana lo culmino pase lo que pase.
+
+1. [First challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nft-preview-card-component-5KBpKF-nh)
