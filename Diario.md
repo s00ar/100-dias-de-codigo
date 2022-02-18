@@ -139,3 +139,10 @@
 **Progreso del día**: Bueno llegué de un arduo día laboral pero no queria no hacer mi día de código. Así que a duras penas y con las pocas neuronas que me quedaron le empecé a dar forma al desafío. Estoy seguro de que en una hora más lo hubiera terminado pero conozco mis limites. Mañana lo culmino pase lo que pase.
 
 1. [First challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nft-preview-card-component-5KBpKF-nh)
+
+### Día 28: febrero 17, 2022
+**Progreso del día**: Se que debería haber terminado el challenge de front end pero la verdad que hoy me levanté de animo para hacer algo más de mi gusto. Así que le dedique una hora a hacer challenges corto de javascript. Honestamente los disfruto muchísimo. Para mi se comparan a hacer crucigramas mientras mejoro mis problem solving skills.
+
+**Opiniones** Tengo que reconocer que mi lógica a veces es retorcida inclusive para resolver casos simples. Por ejemplo habia un problema que requeria eliminar las primeras 3 letras de un string. Lo primero que vino a la mente fue convertir el string en un array con split, usar slice para quedarme con lo que necesitaba y unirlo todo con join. Claramente podria haber usado solo slice pero pq no hacerla leventemente más compleja XD. Me dí cuenta a los 2 segundos de terminarlo todo que el %60 del código era redundante(que igual no fueron mas de 2 minutos). Igual lo envié a ver si me lo daba por valido y aparentemente ser inneficiente no está tan mal. Genious me strikes again!
+
+1. [First challenge](https://www.jschallenger.com/javascript-basics/remove-first-characters-string-javascript)
