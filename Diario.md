@@ -146,3 +146,8 @@
 **Opiniones** Tengo que reconocer que mi lógica a veces es retorcida inclusive para resolver casos simples. Por ejemplo habia un problema que requeria eliminar las primeras 3 letras de un string. Lo primero que vino a la mente fue convertir el string en un array con split, usar slice para quedarme con lo que necesitaba y unirlo todo con join. Claramente podria haber usado solo slice pero pq no hacerla leventemente más compleja XD. Me dí cuenta a los 2 segundos de terminarlo todo que el %60 del código era redundante(que igual no fueron mas de 2 minutos). Igual lo envié a ver si me lo daba por valido y aparentemente ser inneficiente no está tan mal. Genious me strikes again!
 
 1. [First challenge](https://www.jschallenger.com/javascript-basics/remove-first-characters-string-javascript)
+
+### Día 28: febrero 18, 2022
+**Progreso del día**: Hoy terminé con el desafrío de frontendmentor. Me falta agregarle un par de funcionalidades pero eso ya queda para mañana ya que el estudio y el trabajo me demandan lo que me queda de sábado.
+
+1. [First challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nft-preview-card-component-5KBpKF-nh)
