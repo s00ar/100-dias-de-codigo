@@ -152,5 +152,5 @@
 
 1. [First challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nft-preview-card-component-5KBpKF-nh)
 
-Día 29
+### Día 29: febrero 19, 2022
 Otro día de hacer desafíos de javascript. Hoy al menos puedo decir que mis respuestas fueron mas eficientes que las que proponian los desafios así que le veo sentido y crecimiento a tanta práctica.
