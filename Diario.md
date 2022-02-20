@@ -148,6 +148,9 @@
 1. [First challenge](https://www.jschallenger.com/javascript-basics/remove-first-characters-string-javascript)
 
 ### Día 28: febrero 18, 2022
-**Progreso del día**: Hoy terminé con el desafrío de frontendmentor. Me falta agregarle un par de funcionalidades pero eso ya queda para mañana ya que el estudio y el trabajo me demandan lo que me queda de sábado.
+**Progreso del día**: Hoy terminé con el desafío de frontendmentor. Me falta agregarle un par de funcionalidades pero eso ya queda para mañana ya que el estudio y el trabajo me demandan lo que me queda de sábado.
 
 1. [First challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nft-preview-card-component-5KBpKF-nh)
+
+Día 29
+Otro día de hacer desafíos de javascript. Hoy al menos puedo decir que mis respuestas fueron mas eficientes que las que proponian los desafios así que le veo sentido y crecimiento a tanta práctica.
