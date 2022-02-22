@@ -158,3 +158,7 @@ Otro día de hacer desafíos de javascript. Hoy al menos puedo decir que mis res
 ### Día 30: febrero 20, 2022
 Hoy empecé un proyecto nuevo para un amigo que requiere un sistema online de gestion para su empresa. Aprovechando mi nuevo fanatismo por laravel vamos a solucionar el problema y de paso incrementar mi porfolio.
 Ya generé las bases de datos, migraciones, controladores y todo el sistema de gestión de usuarios y admin.
+
+Día 31
+
+Sigo con el proyecto de segimiento y gestiones para servicios técnicos. Hoy lidié con los pequeños bugs que me fueron surguiendo pero nada que se me fuera de las manos afortunadamente.
