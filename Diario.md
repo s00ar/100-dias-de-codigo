@@ -162,3 +162,7 @@ Ya generé las bases de datos, migraciones, controladores y todo el sistema de g
 Día 31
 
 Sigo con el proyecto de segimiento y gestiones para servicios técnicos. Hoy lidié con los pequeños bugs que me fueron surguiendo pero nada que se me fuera de las manos afortunadamente.
+
+Día 32
+
+Hoy estuve practicando async await y promesas de javascript con la api de star wars pq YOLO
