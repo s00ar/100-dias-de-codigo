@@ -153,16 +153,22 @@
 1. [First challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nft-preview-card-component-5KBpKF-nh)
 
 ### Día 29: febrero 19, 2022
-Otro día de hacer desafíos de javascript. Hoy al menos puedo decir que mis respuestas fueron mas eficientes que las que proponian los desafios así que le veo sentido y crecimiento a tanta práctica.
+**Progreso del día**:Otro día de hacer desafíos de javascript. Hoy al menos puedo decir que mis respuestas fueron mas eficientes que las que proponian los desafios así que le veo sentido y crecimiento a tanta práctica.
 
 ### Día 30: febrero 20, 2022
-Hoy empecé un proyecto nuevo para un amigo que requiere un sistema online de gestion para su empresa. Aprovechando mi nuevo fanatismo por laravel vamos a solucionar el problema y de paso incrementar mi porfolio.
+**Progreso del día**:Hoy empecé un proyecto nuevo para un amigo que requiere un sistema online de gestion para su empresa. Aprovechando mi nuevo fanatismo por laravel vamos a solucionar el problema y de paso incrementar mi porfolio.
 Ya generé las bases de datos, migraciones, controladores y todo el sistema de gestión de usuarios y admin.
 
-Día 31
+### Día 31: febrero 21, 2022
 
-Sigo con el proyecto de segimiento y gestiones para servicios técnicos. Hoy lidié con los pequeños bugs que me fueron surguiendo pero nada que se me fuera de las manos afortunadamente.
+**Progreso del día**:Sigo con el proyecto de segimiento y gestiones para servicios técnicos. Hoy lidié con los pequeños bugs que me fueron surguiendo pero nada que se me fuera de las manos afortunadamente.
 
-Día 32
+### Día 33: febrero 22, 2022
 
-Hoy estuve practicando async await y promesas de javascript con la api de star wars pq YOLO
+**Progreso del día**:Hoy estuve practicando async await y promesas de javascript con la api de star wars pq YOLO
+
+### Día 34: febrero 20, 2022
+
+**Progreso del día**:Continuado con el proyecto de #laravel de gestión para servicio técnico hoy dí grandes pasos. Hasta ahora intentaba acortar pasos y eso resultaba en código confuso y que no entendia del todo. Preferí arrancar por algo más sencillo pero que comprendiera en profundidad.
+
+**Opiniones**: Aprendí que es mejor lidiar con código sencillo que con cosas excelentes a las que no comprendemos por completo.
