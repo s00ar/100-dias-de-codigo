@@ -167,8 +167,14 @@ Ya generé las bases de datos, migraciones, controladores y todo el sistema de g
 
 **Progreso del día**:Hoy estuve practicando async await y promesas de javascript con la api de star wars pq YOLO
 
-### Día 34: febrero 20, 2022
+### Día 34: febrero 23, 2022
 
 **Progreso del día**:Continuado con el proyecto de #laravel de gestión para servicio técnico hoy dí grandes pasos. Hasta ahora intentaba acortar pasos y eso resultaba en código confuso y que no entendia del todo. Preferí arrancar por algo más sencillo pero que comprendiera en profundidad.
 
 **Opiniones**: Aprendí que es mejor lidiar con código sencillo que con cosas excelentes a las que no comprendemos por completo.
+
+### Día 35: febrero 24, 2022
+
+**Progreso del día**: Sigo trabajando en el proyecto para gestión de service. Decidí agregar un ecommerce ya que creo que es una funcionalidad atractiva para el cliente. Mientras sigo transpirando con validaciones.
+**Opiniones**: Realmente estoy empezando a entender porque el trabajo en equipo es fundamental. Inclusive en algo chico como esto, cuando tenemos un tiempo limitado, hacer todo uno mismo es complicado.
+1. [Laravel Proyect](https://github.com/s00ar/laravel/tree/main/laravel8crud)
