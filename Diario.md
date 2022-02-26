@@ -178,3 +178,10 @@ Ya generé las bases de datos, migraciones, controladores y todo el sistema de g
 **Progreso del día**: Sigo trabajando en el proyecto para gestión de service. Decidí agregar un ecommerce ya que creo que es una funcionalidad atractiva para el cliente. Mientras sigo transpirando con validaciones.
 **Opiniones**: Realmente estoy empezando a entender porque el trabajo en equipo es fundamental. Inclusive en algo chico como esto, cuando tenemos un tiempo limitado, hacer todo uno mismo es complicado.
 1. [Laravel Proyect](https://github.com/s00ar/laravel/tree/main/laravel8crud)
+
+### Día 36: febrero 25, 2022
+
+**Progreso del día**: 
+Me pasé varias horas renegando con #laravel. Es muy frustrante cuando uno no encuentra donde está el error en el código.
+**Opiniones**: En esas circunstancias lo mejor es tomarse un descanso y ver el problema con ojos nuevos.
+1. [Laravel Proyect](https://github.com/s00ar/laravel/tree/main/laravel8crud)
